@@ -26,9 +26,9 @@ import people03 from "./people03.png";
 import logo2 from "./logo2.png";
 import Rectangle from "./Rectangle.svg";
 import wagwan from "./wagwan.svg";
-import vector from "./vector.svg";
-import vector1 from "./vector1.svg";
-import vector2 from "./vector2.svg";
+import vector from "./Vector.svg";
+import vector1 from "./Vector1.svg";
+import vector2 from "./Vector2.svg";
 import group from "./group.svg";
 
 
