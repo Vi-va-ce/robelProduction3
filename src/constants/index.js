@@ -2,15 +2,15 @@ import { people01, people02, people03, facebook, instagram, linkedin, twitter, a
 
 export const navLinks = [
   {
-    id: "About",
+    id: "https://robeproductionabt.netlify.app/about",
     title: "About",
   },
   {
-    id: "Works",
+    id: "https://robeproductionabt.netlify.app/portfolio",
     title: "Our works",
   },
   {
-    id: "talk  ",
+    id: "https://robeproductionabt.netlify.app/contact",
     title: "Let's talk",
   },
  
