@@ -29,7 +29,7 @@ import wagwan from "./wagwan.svg";
 import vector from "./Vector.svg";
 import vector1 from "./Vector1.svg";
 import vector2 from "./Vector2.svg";
-import group from "./group.svg";
+import group from "./Group.svg";
 
 
 
